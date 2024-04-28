@@ -1,4 +1,6 @@
 # Food-App-Business-Analysis-Dashboard
+![Banner Image](https://github.com/tipadeola/Food-App-Business-Analysis-Dashboard/blob/main/foodimage.jpg)
+
 
 ### Example of a project using data analysis to drive business insights
 - In my current role as a **Marketing Analyst**, I was tasked with optimizing the customer acquisition process for our e-commerce platform. To tackle this challenge, I utilized data analysis techniques to identify key insights from our sales funnel. One specific project involved analyzing website traffic data to understand customer behavior and identify potential areas for improvement.
